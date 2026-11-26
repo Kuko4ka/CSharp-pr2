@@ -1,0 +1,12 @@
+E:\C#pr2\PolynomLibrary\bin\Debug\net10.0\PolynomLibrary.deps.json
+E:\C#pr2\PolynomLibrary\bin\Debug\net10.0\PolynomLibrary.dll
+E:\C#pr2\PolynomLibrary\bin\Debug\net10.0\PolynomLibrary.pdb
+E:\C#pr2\PolynomLibrary\obj\Debug\net10.0\PolynomLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#pr2\PolynomLibrary\obj\Debug\net10.0\PolynomLibrary.AssemblyInfoInputs.cache
+E:\C#pr2\PolynomLibrary\obj\Debug\net10.0\PolynomLibrary.AssemblyInfo.cs
+E:\C#pr2\PolynomLibrary\obj\Debug\net10.0\PolynomLibrary.csproj.CoreCompileInputs.cache
+E:\C#pr2\PolynomLibrary\obj\Debug\net10.0\PolynomLibrary.dll
+E:\C#pr2\PolynomLibrary\obj\Debug\net10.0\refint\PolynomLibrary.dll
+E:\C#pr2\PolynomLibrary\obj\Debug\net10.0\PolynomLibrary.pdb
+E:\C#pr2\PolynomLibrary\obj\Debug\net10.0\ref\PolynomLibrary.dll
+E:\C#pr2\PolynomLibrary\obj\Debug\net10.0\PolynomL.4190B64F.Up2Date
