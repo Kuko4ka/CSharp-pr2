@@ -14,7 +14,7 @@ namespace PolynomialLibrary
         
         public int Length => _coeffs.Length;
 
-        #region Конструктори
+       
 
        
         public Polynomial()
@@ -62,7 +62,7 @@ namespace PolynomialLibrary
             }
         }
 
-        #endregion
+        
 
         
         private void Trim()
@@ -84,7 +84,7 @@ namespace PolynomialLibrary
             }
         }
 
-        #region Індексатори
+      
 
         
         public double this[int index]
@@ -118,9 +118,7 @@ namespace PolynomialLibrary
             }
         }
 
-        #endregion
 
-        #region Введення та ToString
 
         
         public void Input()
@@ -184,9 +182,7 @@ namespace PolynomialLibrary
             return sb.ToString();
         }
 
-        #endregion
 
-        #region Арифметичні операції
 
         
         public static Polynomial operator +(Polynomial a, Polynomial b)
@@ -265,9 +261,7 @@ namespace PolynomialLibrary
             return new Polynomial(result);
         }
 
-        #endregion
 
-        #region Операції порівняння
 
         public static bool operator ==(Polynomial a, Polynomial b)
         {
@@ -332,9 +326,7 @@ namespace PolynomialLibrary
             return hash;
         }
 
-        #endregion
 
-        #region Операції true/false та приведення типів
 
         
         public static bool operator true(Polynomial p)
@@ -359,6 +351,6 @@ namespace PolynomialLibrary
             return p._coeffs[0];
         }
 
-        #endregion
+
     }
 }
